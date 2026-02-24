@@ -1,0 +1,2 @@
+# zjxc-rss
+gen rss
