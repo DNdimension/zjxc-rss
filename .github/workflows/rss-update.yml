@@ -21,7 +21,8 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
-
+      - name: Create docs directory
+        run: mkdir -p docs
       - name: Run RSS generator
         run: python genrss.py
 
