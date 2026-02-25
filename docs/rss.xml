@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Feb 2026 19:08:17 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 一口春，百样味</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202602/t20260204_31490063.shtml</link>
-      <description>浙江宣传 | 一口春，百样味</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202602/t20260204_31490063.shtml</guid>
-      <pubDate>Wed, 04 Feb 2026 11:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 你我皆是黑马</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202602/t20260204_31489763.shtml</link>
-      <description>浙江宣传 | 你我皆是黑马</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202602/t20260204_31489763.shtml</guid>
-      <pubDate>Wed, 04 Feb 2026 11:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Feb 2026 02:33:11 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | “到了杭州东，总有办法回家的”</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202602/t20260205_31492425.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 人间共鸣从何而来</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202602/t20260223_31518274.shtml</guid>
       <pubDate>Mon, 23 Feb 2026 12:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 《之江新语》里的“政绩观”</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202602/t20260225_31521252.shtml</link>
+      <description>浙江宣传 | 《之江新语》里的“政绩观”</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202602/t20260225_31521252.shtml</guid>
+      <pubDate>Wed, 25 Feb 2026 09:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 寻根问“姓”</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202602/t20260225_31521254.shtml</link>
+      <description>浙江宣传 | 寻根问“姓”</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202602/t20260225_31521254.shtml</guid>
+      <pubDate>Wed, 25 Feb 2026 09:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
