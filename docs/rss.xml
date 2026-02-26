@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Feb 2026 19:11:56 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | “到了杭州东，总有办法回家的”</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202602/t20260205_31492425.shtml</link>
-      <description>浙江宣传 | “到了杭州东，总有办法回家的”</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202602/t20260205_31492425.shtml</guid>
-      <pubDate>Thu, 05 Feb 2026 10:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 从横店到德清</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202602/t20260205_31492512.shtml</link>
-      <description>浙江宣传 | 从横店到德清</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202602/t20260205_31492512.shtml</guid>
-      <pubDate>Thu, 05 Feb 2026 10:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Feb 2026 02:29:01 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 光影照见人间烟火</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202602/t20260207_31495977.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 寻根问“姓”</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202602/t20260225_31521254.shtml</guid>
       <pubDate>Wed, 25 Feb 2026 09:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | “赋美”如何进阶“富美”</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202602/t20260226_31522876.shtml</link>
+      <description>浙江宣传 | “赋美”如何进阶“富美”</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202602/t20260226_31522876.shtml</guid>
+      <pubDate>Thu, 26 Feb 2026 09:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 话不在多</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202602/t20260226_31522873.shtml</link>
+      <description>浙江宣传 | 话不在多</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202602/t20260226_31522873.shtml</guid>
+      <pubDate>Thu, 26 Feb 2026 09:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
