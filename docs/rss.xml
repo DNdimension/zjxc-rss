@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Mar 2026 19:08:38 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | “赋美”如何进阶“富美”</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202602/t20260226_31522876.shtml</link>
-      <description>浙江宣传 | “赋美”如何进阶“富美”</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202602/t20260226_31522876.shtml</guid>
-      <pubDate>Thu, 26 Feb 2026 09:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 话不在多</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202602/t20260226_31522873.shtml</link>
-      <description>浙江宣传 | 话不在多</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202602/t20260226_31522873.shtml</guid>
-      <pubDate>Thu, 26 Feb 2026 09:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 02:30:36 +0000</lastBuildDate>
     <item>
       <title>浙江宣传丨大黄鱼何以鲜透时光</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260302_31528800.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 前任的“烟头”该不该捡</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260316_31554627.shtml</guid>
       <pubDate>Mon, 16 Mar 2026 14:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 别总是那么急</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260317_31555492.shtml</link>
+      <description>浙江宣传 | 别总是那么急</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260317_31555492.shtml</guid>
+      <pubDate>Tue, 17 Mar 2026 09:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 宣传干部要能写“第一稿”</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260317_31556128.shtml</link>
+      <description>浙江宣传 | 宣传干部要能写“第一稿”</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260317_31556128.shtml</guid>
+      <pubDate>Tue, 17 Mar 2026 09:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
