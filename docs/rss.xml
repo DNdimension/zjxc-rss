@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Mar 2026 02:23:45 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传丨为生活，偶尔入魅</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260306_31536984.shtml</link>
-      <description>浙江宣传丨为生活，偶尔入魅</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260306_31536984.shtml</guid>
-      <pubDate>Fri, 06 Mar 2026 09:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传丨实事、实干和实效</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260306_31537452.shtml</link>
-      <description>浙江宣传丨实事、实干和实效</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260306_31537452.shtml</guid>
-      <pubDate>Fri, 06 Mar 2026 09:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Mar 2026 06:51:41 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 我们是否还需要等待</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260309_31541296.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 追“新”还得读懂“两只鸟”</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260320_31562070.shtml</guid>
       <pubDate>Fri, 20 Mar 2026 10:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 短剧的进阶密码</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260321_31564341.shtml</link>
+      <description>浙江宣传 | 短剧的进阶密码</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260321_31564341.shtml</guid>
+      <pubDate>Sat, 21 Mar 2026 11:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 警惕“舆论连坐”侵蚀公共理性</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260321_31564342.shtml</link>
+      <description>浙江宣传 | 警惕“舆论连坐”侵蚀公共理性</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260321_31564342.shtml</guid>
+      <pubDate>Sat, 21 Mar 2026 11:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
