@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Mar 2026 19:01:15 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 到了两边都能理解的年纪</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260310_31543499.shtml</link>
-      <description>浙江宣传 | 到了两边都能理解的年纪</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260310_31543499.shtml</guid>
-      <pubDate>Tue, 10 Mar 2026 14:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 这只“龙虾”为啥那么生猛</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260310_31544343.shtml</link>
-      <description>浙江宣传 | 这只“龙虾”为啥那么生猛</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260310_31544343.shtml</guid>
-      <pubDate>Tue, 10 Mar 2026 14:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Mar 2026 02:42:29 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 《之江新语》教你如何当领导</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260311_31545369.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 未来书店会是怎样的</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260325_31570135.shtml</guid>
       <pubDate>Wed, 25 Mar 2026 09:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 拼搏不是拼命，工作也要生活</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260326_31571679.shtml</link>
+      <description>浙江宣传 | 拼搏不是拼命，工作也要生活</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260326_31571679.shtml</guid>
+      <pubDate>Thu, 26 Mar 2026 09:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 童年的动画不该搞“邪”了</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260326_31571479.shtml</link>
+      <description>浙江宣传 | 童年的动画不该搞“邪”了</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260326_31571479.shtml</guid>
+      <pubDate>Thu, 26 Mar 2026 09:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
