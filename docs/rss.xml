@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 02 Apr 2026 02:40:32 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 有一种遗憾叫“如果当时”</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260315_31552831.shtml</link>
-      <description>浙江宣传 | 有一种遗憾叫“如果当时”</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260315_31552831.shtml</guid>
-      <pubDate>Sun, 15 Mar 2026 10:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 舆情应对是领导干部的基本功</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260315_31553227.shtml</link>
-      <description>浙江宣传 | 舆情应对是领导干部的基本功</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260315_31553227.shtml</guid>
-      <pubDate>Sun, 15 Mar 2026 10:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 07:19:07 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 和平从来不是容易的事</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260316_31553970.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 凭什么不是张雪机车</description>
       <guid isPermaLink="true">https://mp.weixin.qq.com/s/Qa8rYieCIzx8vormZrKsyw</guid>
       <pubDate>Wed, 01 Apr 2026 11:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 何必苛责“全红婵”们</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260402_31585616.shtml</link>
+      <description>浙江宣传 | 何必苛责“全红婵”们</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260402_31585616.shtml</guid>
+      <pubDate>Thu, 02 Apr 2026 11:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | “一个子儿都没有”也是有</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260402_31585165.shtml</link>
+      <description>浙江宣传 | “一个子儿都没有”也是有</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260402_31585165.shtml</guid>
+      <pubDate>Thu, 02 Apr 2026 11:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
