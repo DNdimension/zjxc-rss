@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 05 Apr 2026 07:13:13 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 别总是那么急</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260317_31555492.shtml</link>
-      <description>浙江宣传 | 别总是那么急</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260317_31555492.shtml</guid>
-      <pubDate>Tue, 17 Mar 2026 09:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 宣传干部要能写“第一稿”</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260317_31556128.shtml</link>
-      <description>浙江宣传 | 宣传干部要能写“第一稿”</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260317_31556128.shtml</guid>
-      <pubDate>Tue, 17 Mar 2026 09:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Apr 2026 13:06:28 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 城市是有生命的</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260318_31556985.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 县委书记“6秒发言”，戳中一个现实问题</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260403_31587227.shtml</guid>
       <pubDate>Fri, 03 Apr 2026 10:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 四个典故读懂这个终极命题</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260405_31590094.shtml</link>
+      <description>浙江宣传 | 四个典故读懂这个终极命题</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260405_31590094.shtml</guid>
+      <pubDate>Sun, 05 Apr 2026 15:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 丨清明蚕事</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260405_31590466.shtml</link>
+      <description>浙江宣传 丨清明蚕事</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260405_31590466.shtml</guid>
+      <pubDate>Sun, 05 Apr 2026 15:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
