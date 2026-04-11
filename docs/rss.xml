@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 11 Apr 2026 02:37:54 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 领导干部要善于听“骂声”</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260323_31565665.shtml</link>
-      <description>浙江宣传 | 领导干部要善于听“骂声”</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260323_31565665.shtml</guid>
-      <pubDate>Mon, 23 Mar 2026 09:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 能不能安安静静吃个饭</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260323_31565289.shtml</link>
-      <description>浙江宣传 | 能不能安安静静吃个饭</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260323_31565289.shtml</guid>
-      <pubDate>Mon, 23 Mar 2026 09:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 07:05:49 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | “办不成事”怎么就火了</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260324_31568146.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传丨不能放纵“饭圈”肆意“冲塔”</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260410_31598705.shtml</guid>
       <pubDate>Fri, 10 Apr 2026 10:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 羡慕“海藻”折射了什么心态</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260411_31599989.shtml</link>
+      <description>浙江宣传 | 羡慕“海藻”折射了什么心态</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260411_31599989.shtml</guid>
+      <pubDate>Sat, 11 Apr 2026 11:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 跟着《之江新语》读书</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260411_31600095.shtml</link>
+      <description>浙江宣传 | 跟着《之江新语》读书</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260411_31600095.shtml</guid>
+      <pubDate>Sat, 11 Apr 2026 11:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
