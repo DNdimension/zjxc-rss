@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 18 Apr 2026 07:14:45 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | “办不成事”怎么就火了</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260324_31568146.shtml</link>
-      <description>浙江宣传 | “办不成事”怎么就火了</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260324_31568146.shtml</guid>
-      <pubDate>Tue, 24 Mar 2026 09:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | “梅姨”落网，然后呢</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260324_31567762.shtml</link>
-      <description>浙江宣传 | “梅姨”落网，然后呢</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260324_31567762.shtml</guid>
-      <pubDate>Tue, 24 Mar 2026 09:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Apr 2026 13:10:38 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 你是否在雪山救过一只狐狸</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260325_31570134.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 跟着《之江新语》读书</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260411_31600095.shtml</guid>
       <pubDate>Sat, 11 Apr 2026 11:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 三周岁的新物种，是怎么成长的</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260418_31613918.shtml</link>
+      <description>浙江宣传 | 三周岁的新物种，是怎么成长的</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260418_31613918.shtml</guid>
+      <pubDate>Sat, 18 Apr 2026 16:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 外国年轻人咋突然“中”成这样</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260418_31613919.shtml</link>
+      <description>浙江宣传 | 外国年轻人咋突然“中”成这样</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260418_31613919.shtml</guid>
+      <pubDate>Sat, 18 Apr 2026 16:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
