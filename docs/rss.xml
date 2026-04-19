@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 18 Apr 2026 18:57:12 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 你是否在雪山救过一只狐狸</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260325_31570134.shtml</link>
-      <description>浙江宣传 | 你是否在雪山救过一只狐狸</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260325_31570134.shtml</guid>
-      <pubDate>Wed, 25 Mar 2026 09:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 未来书店会是怎样的</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260325_31570135.shtml</link>
-      <description>浙江宣传 | 未来书店会是怎样的</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260325_31570135.shtml</guid>
-      <pubDate>Wed, 25 Mar 2026 09:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Apr 2026 03:20:18 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 拼搏不是拼命，工作也要生活</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260326_31571679.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 外国年轻人咋突然“中”成这样</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260418_31613919.shtml</guid>
       <pubDate>Sat, 18 Apr 2026 16:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | “庆历四年春”到底有谁在</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260419_31613984.shtml</link>
+      <description>浙江宣传 | “庆历四年春”到底有谁在</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260419_31613984.shtml</guid>
+      <pubDate>Sun, 19 Apr 2026 11:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | “想你的风”为何没吹到天章寺</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260419_31613985.shtml</link>
+      <description>浙江宣传 | “想你的风”为何没吹到天章寺</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260419_31613985.shtml</guid>
+      <pubDate>Sun, 19 Apr 2026 11:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
