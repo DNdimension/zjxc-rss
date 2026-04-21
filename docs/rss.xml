@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 20 Apr 2026 19:11:56 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | “粉底液将军”为何会激起群嘲</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260327_31574415.shtml</link>
-      <description>浙江宣传 | “粉底液将军”为何会激起群嘲</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260327_31574415.shtml</guid>
-      <pubDate>Fri, 27 Mar 2026 08:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 夜深忽梦少年事</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260327_31574416.shtml</link>
-      <description>浙江宣传 | 夜深忽梦少年事</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202603/t20260327_31574416.shtml</guid>
-      <pubDate>Fri, 27 Mar 2026 08:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Apr 2026 02:55:36 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 别让傲慢砸了品牌的饭碗</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202603/t20260330_31578372.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | “中国式安全感”为何让外国人羡慕</description>
       <guid isPermaLink="true">https://mp.weixin.qq.com/s/qpndJWlLHj7SamuhYovcfQ</guid>
       <pubDate>Mon, 20 Apr 2026 11:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 博物馆升级不是比谁更热闹</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260421_31618042.shtml</link>
+      <description>浙江宣传 | 博物馆升级不是比谁更热闹</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260421_31618042.shtml</guid>
+      <pubDate>Tue, 21 Apr 2026 10:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 把“只报一次”当个事儿办</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260421_31618046.shtml</link>
+      <description>浙江宣传 | 把“只报一次”当个事儿办</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260421_31618046.shtml</guid>
+      <pubDate>Tue, 21 Apr 2026 10:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
