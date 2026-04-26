@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 26 Apr 2026 07:45:00 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | “一个子儿都没有”也是有</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260402_31585165.shtml</link>
-      <description>浙江宣传 | “一个子儿都没有”也是有</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260402_31585165.shtml</guid>
-      <pubDate>Thu, 02 Apr 2026 11:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 别把“心机”用在挂面上</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260403_31586962.shtml</link>
-      <description>浙江宣传 | 别把“心机”用在挂面上</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260403_31586962.shtml</guid>
-      <pubDate>Fri, 03 Apr 2026 10:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Apr 2026 13:14:43 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 县委书记“6秒发言”，戳中一个现实问题</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260403_31587227.shtml</link>
@@ -217,6 +203,20 @@
       <description>义乌发展的六个“非同寻常”</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260424_31625374.shtml</guid>
       <pubDate>Fri, 24 Apr 2026 14:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 好阅读何须论高下</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260426_31629027.shtml</link>
+      <description>浙江宣传 | 好阅读何须论高下</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260426_31629027.shtml</guid>
+      <pubDate>Sun, 26 Apr 2026 18:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 后任的“核桃”要不要种</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260426_31629113.shtml</link>
+      <description>浙江宣传 | 后任的“核桃”要不要种</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260426_31629113.shtml</guid>
+      <pubDate>Sun, 26 Apr 2026 18:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
