@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 26 Apr 2026 19:01:07 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 县委书记“6秒发言”，戳中一个现实问题</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260403_31587227.shtml</link>
-      <description>浙江宣传 | 县委书记“6秒发言”，戳中一个现实问题</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260403_31587227.shtml</guid>
-      <pubDate>Fri, 03 Apr 2026 10:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 四个典故读懂这个终极命题</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260405_31590094.shtml</link>
-      <description>浙江宣传 | 四个典故读懂这个终极命题</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260405_31590094.shtml</guid>
-      <pubDate>Sun, 05 Apr 2026 15:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Apr 2026 03:29:40 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 丨清明蚕事</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260405_31590466.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 后任的“核桃”要不要种</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260426_31629113.shtml</guid>
       <pubDate>Sun, 26 Apr 2026 18:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 世界超市“爆单”的“顶流”密码</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260427_31629079.shtml</link>
+      <description>浙江宣传 | 世界超市“爆单”的“顶流”密码</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260427_31629079.shtml</guid>
+      <pubDate>Mon, 27 Apr 2026 09:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | “人生不过葱姜蒜”</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260427_31629080.shtml</link>
+      <description>浙江宣传 | “人生不过葱姜蒜”</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260427_31629080.shtml</guid>
+      <pubDate>Mon, 27 Apr 2026 09:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
