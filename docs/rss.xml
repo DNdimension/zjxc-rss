@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 27 Apr 2026 19:38:56 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 丨清明蚕事</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260405_31590466.shtml</link>
-      <description>浙江宣传 丨清明蚕事</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260405_31590466.shtml</guid>
-      <pubDate>Sun, 05 Apr 2026 15:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 谁能拒绝杭州的春天</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260406_31591152.shtml</link>
-      <description>浙江宣传 | 谁能拒绝杭州的春天</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260406_31591152.shtml</guid>
-      <pubDate>Mon, 06 Apr 2026 11:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Apr 2026 03:34:56 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 六个理由爱上“吴越杯”</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260406_31591153.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | “人生不过葱姜蒜”</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260427_31629080.shtml</guid>
       <pubDate>Mon, 27 Apr 2026 09:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 打“擦边球”不能成为避责伎俩</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260428_31631743.shtml</link>
+      <description>浙江宣传 | 打“擦边球”不能成为避责伎俩</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260428_31631743.shtml</guid>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 如何在一场诗词里告别春天</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260428_31631561.shtml</link>
+      <description>浙江宣传 | 如何在一场诗词里告别春天</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260428_31631561.shtml</guid>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
