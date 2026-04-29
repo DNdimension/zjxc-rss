@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 28 Apr 2026 19:45:54 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 六个理由爱上“吴越杯”</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260406_31591153.shtml</link>
-      <description>浙江宣传 | 六个理由爱上“吴越杯”</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260406_31591153.shtml</guid>
-      <pubDate>Mon, 06 Apr 2026 11:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传丨舆情应对不能止于“摆事实”</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260408_31593985.shtml</link>
-      <description>浙江宣传丨舆情应对不能止于“摆事实”</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260408_31593985.shtml</guid>
-      <pubDate>Wed, 08 Apr 2026 09:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Apr 2026 03:33:24 +0000</lastBuildDate>
     <item>
       <title>浙江宣传丨给曹操送布洛芬，治的不是头痛</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260408_31594512.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 如何在一场诗词里告别春天</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260428_31631561.shtml</guid>
       <pubDate>Tue, 28 Apr 2026 08:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>一县凭啥对话世界</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260429_31634164.shtml</link>
+      <description>一县凭啥对话世界</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260429_31634164.shtml</guid>
+      <pubDate>Wed, 29 Apr 2026 09:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>穿越人生的“奥德赛时期”</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260429_31634517.shtml</link>
+      <description>穿越人生的“奥德赛时期”</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260429_31634517.shtml</guid>
+      <pubDate>Wed, 29 Apr 2026 09:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
