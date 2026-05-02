@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 01 May 2026 19:17:10 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传丨博导和“张雪”们隔着多远</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260409_31596445.shtml</link>
-      <description>浙江宣传丨博导和“张雪”们隔着多远</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260409_31596445.shtml</guid>
-      <pubDate>Thu, 09 Apr 2026 09:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 May 2026 03:20:00 +0000</lastBuildDate>
     <item>
       <title>浙江宣传丨《诗经》为春天作了序</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260410_31598704.shtml</link>
@@ -217,6 +210,13 @@
       <description>县域发展不能靠复制粘贴</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260430_31637519.shtml</guid>
       <pubDate>Thu, 30 Apr 2026 09:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传丨允许自己“慢点长大”</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260502_31641532.shtml</link>
+      <description>浙江宣传丨允许自己“慢点长大”</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260502_31641532.shtml</guid>
+      <pubDate>Sat, 02 May 2026 11:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
