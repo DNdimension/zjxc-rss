@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 05 May 2026 19:26:25 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 羡慕“海藻”折射了什么心态</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260411_31599989.shtml</link>
-      <description>浙江宣传 | 羡慕“海藻”折射了什么心态</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260411_31599989.shtml</guid>
-      <pubDate>Sat, 11 Apr 2026 11:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 跟着《之江新语》读书</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260411_31600095.shtml</link>
-      <description>浙江宣传 | 跟着《之江新语》读书</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260411_31600095.shtml</guid>
-      <pubDate>Sat, 11 Apr 2026 11:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 May 2026 03:32:47 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 三周岁的新物种，是怎么成长的</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260418_31613918.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 活学马克思</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260505_31644071.shtml</guid>
       <pubDate>Tue, 05 May 2026 11:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | “不过头”是一种智慧</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260506_31645717.shtml</link>
+      <description>浙江宣传 | “不过头”是一种智慧</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260506_31645717.shtml</guid>
+      <pubDate>Wed, 06 May 2026 10:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 义乌咋就成了网友“许愿池”</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260506_31645718.shtml</link>
+      <description>浙江宣传 | 义乌咋就成了网友“许愿池”</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260506_31645718.shtml</guid>
+      <pubDate>Wed, 06 May 2026 10:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
