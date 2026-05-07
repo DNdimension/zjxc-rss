@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 May 2026 03:32:53 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 三周岁的新物种，是怎么成长的</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260418_31613918.shtml</link>
-      <description>浙江宣传 | 三周岁的新物种，是怎么成长的</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260418_31613918.shtml</guid>
-      <pubDate>Sat, 18 Apr 2026 16:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 外国年轻人咋突然“中”成这样</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260418_31613919.shtml</link>
-      <description>浙江宣传 | 外国年轻人咋突然“中”成这样</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260418_31613919.shtml</guid>
-      <pubDate>Sat, 18 Apr 2026 16:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 May 2026 08:39:01 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | “庆历四年春”到底有谁在</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260419_31613984.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 义乌咋就成了网友“许愿池”</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260506_31645718.shtml</guid>
       <pubDate>Wed, 06 May 2026 10:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 荒野茶到底是什么来头</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260507_31647901.shtml</link>
+      <description>浙江宣传 | 荒野茶到底是什么来头</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260507_31647901.shtml</guid>
+      <pubDate>Thu, 07 May 2026 12:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 舆情处置要多为基层“撑伞”</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260507_31647556.shtml</link>
+      <description>浙江宣传 | 舆情处置要多为基层“撑伞”</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260507_31647556.shtml</guid>
+      <pubDate>Thu, 07 May 2026 12:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
