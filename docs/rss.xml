@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 14 May 2026 19:50:33 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 后任的“核桃”要不要种</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260426_31629113.shtml</link>
-      <description>浙江宣传 | 后任的“核桃”要不要种</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260426_31629113.shtml</guid>
-      <pubDate>Sun, 26 Apr 2026 18:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 世界超市“爆单”的“顶流”密码</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260427_31629079.shtml</link>
-      <description>浙江宣传 | 世界超市“爆单”的“顶流”密码</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260427_31629079.shtml</guid>
-      <pubDate>Mon, 27 Apr 2026 09:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 May 2026 03:49:54 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | “人生不过葱姜蒜”</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260427_31629080.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 城乡“AB货”是赤裸裸的歧视</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260514_31660886.shtml</guid>
       <pubDate>Thu, 14 May 2026 10:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 多少岁算年轻</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260515_31662673.shtml</link>
+      <description>浙江宣传 | 多少岁算年轻</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260515_31662673.shtml</guid>
+      <pubDate>Fri, 15 May 2026 10:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 义乌，再出发</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260515_31662674.shtml</link>
+      <description>浙江宣传 | 义乌，再出发</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260515_31662674.shtml</guid>
+      <pubDate>Fri, 15 May 2026 10:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
