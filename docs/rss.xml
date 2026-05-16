@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 15 May 2026 19:43:25 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | “人生不过葱姜蒜”</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260427_31629080.shtml</link>
-      <description>浙江宣传 | “人生不过葱姜蒜”</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260427_31629080.shtml</guid>
-      <pubDate>Mon, 27 Apr 2026 09:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 打“擦边球”不能成为避责伎俩</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260428_31631743.shtml</link>
-      <description>浙江宣传 | 打“擦边球”不能成为避责伎俩</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202604/t20260428_31631743.shtml</guid>
-      <pubDate>Tue, 28 Apr 2026 08:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 May 2026 03:32:04 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 如何在一场诗词里告别春天</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202604/t20260428_31631561.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 义乌，再出发</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260515_31662674.shtml</guid>
       <pubDate>Fri, 15 May 2026 10:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | 偷拍者，该不该开除学籍</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260516_31665290.shtml</link>
+      <description>浙江宣传 | 偷拍者，该不该开除学籍</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260516_31665290.shtml</guid>
+      <pubDate>Sat, 16 May 2026 11:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传 | “修昔底德陷阱”不是必然的</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260516_31665289.shtml</link>
+      <description>浙江宣传 | “修昔底德陷阱”不是必然的</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260516_31665289.shtml</guid>
+      <pubDate>Sat, 16 May 2026 11:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
