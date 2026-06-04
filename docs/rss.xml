@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 03 Jun 2026 21:18:55 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 多少岁算年轻</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260515_31662673.shtml</link>
-      <description>浙江宣传 | 多少岁算年轻</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260515_31662673.shtml</guid>
-      <pubDate>Fri, 15 May 2026 10:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 义乌，再出发</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260515_31662674.shtml</link>
-      <description>浙江宣传 | 义乌，再出发</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260515_31662674.shtml</guid>
-      <pubDate>Fri, 15 May 2026 10:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 04:23:48 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 偷拍者，该不该开除学籍</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260516_31665290.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传丨此间有莲</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202606/t20260603_31702030.shtml</guid>
       <pubDate>Wed, 03 Jun 2026 09:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传丨《给阿嬷的情书》不只创造票房奇迹</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202606/t20260604_31704635.shtml</link>
+      <description>浙江宣传丨《给阿嬷的情书》不只创造票房奇迹</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202606/t20260604_31704635.shtml</guid>
+      <pubDate>Thu, 04 Jun 2026 10:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传丨对网暴者就该这样</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202606/t20260604_31704636.shtml</link>
+      <description>浙江宣传丨对网暴者就该这样</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202606/t20260604_31704636.shtml</guid>
+      <pubDate>Thu, 04 Jun 2026 10:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
