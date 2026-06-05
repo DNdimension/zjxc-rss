@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 04 Jun 2026 20:09:25 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 偷拍者，该不该开除学籍</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260516_31665290.shtml</link>
-      <description>浙江宣传 | 偷拍者，该不该开除学籍</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260516_31665290.shtml</guid>
-      <pubDate>Sat, 16 May 2026 11:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | “修昔底德陷阱”不是必然的</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260516_31665289.shtml</link>
-      <description>浙江宣传 | “修昔底德陷阱”不是必然的</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260516_31665289.shtml</guid>
-      <pubDate>Sat, 16 May 2026 11:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Jun 2026 04:07:14 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 总要来一次莫干山</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260518_31667846.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传丨对网暴者就该这样</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202606/t20260604_31704636.shtml</guid>
       <pubDate>Thu, 04 Jun 2026 10:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传丨发现问题就是成绩</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202606/t20260605_31706887.shtml</link>
+      <description>浙江宣传丨发现问题就是成绩</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202606/t20260605_31706887.shtml</guid>
+      <pubDate>Fri, 05 Jun 2026 11:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传丨《目瑙纵歌》何以跳向全国</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202606/t20260605_31706888.shtml</link>
+      <description>浙江宣传丨《目瑙纵歌》何以跳向全国</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202606/t20260605_31706888.shtml</guid>
+      <pubDate>Fri, 05 Jun 2026 11:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
