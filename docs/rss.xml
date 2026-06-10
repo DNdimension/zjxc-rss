@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 09 Jun 2026 20:10:35 +0000</lastBuildDate>
-    <item>
-      <title>浙江宣传 | 《给阿嬷的情书》凭什么</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260519_31670153.shtml</link>
-      <description>浙江宣传 | 《给阿嬷的情书》凭什么</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260519_31670153.shtml</guid>
-      <pubDate>Tue, 19 May 2026 09:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>浙江宣传 | 科研要用心放而不是简单管</title>
-      <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260519_31670155.shtml</link>
-      <description>浙江宣传 | 科研要用心放而不是简单管</description>
-      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202605/t20260519_31670155.shtml</guid>
-      <pubDate>Tue, 19 May 2026 09:00:00 +0806</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Jun 2026 04:04:19 +0000</lastBuildDate>
     <item>
       <title>浙江宣传 | 宣传干部要有怎样的政绩观</title>
       <link>https://zjnews.zjol.com.cn/zjxc/202605/t20260520_31672354.shtml</link>
@@ -217,6 +203,20 @@
       <description>浙江宣传 | 外国领导人为何频频“打卡”浙江</description>
       <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202606/t20260606_31709652.shtml</guid>
       <pubDate>Sat, 06 Jun 2026 10:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传丨“崩老头”不是你情我愿这么简单</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202606/t20260610_31717203.shtml</link>
+      <description>浙江宣传丨“崩老头”不是你情我愿这么简单</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202606/t20260610_31717203.shtml</guid>
+      <pubDate>Wed, 10 Jun 2026 09:00:00 +0806</pubDate>
+    </item>
+    <item>
+      <title>浙江宣传丨古典学是什么</title>
+      <link>https://zjnews.zjol.com.cn/zjxc/202606/t20260610_31717204.shtml</link>
+      <description>浙江宣传丨古典学是什么</description>
+      <guid isPermaLink="true">https://zjnews.zjol.com.cn/zjxc/202606/t20260610_31717204.shtml</guid>
+      <pubDate>Wed, 10 Jun 2026 09:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
